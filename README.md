@@ -42,10 +42,8 @@ O objetivo é oferecer uma ferramenta leve, divertida e prática para auxiliar e
 - Sem dependências externas
 
 ---
-
-## 🚀 Como Usar
-
-### 1. Clonar o projeto:
+📥 [Clique aqui para baixar o APK](BrainChoiceTest.apk)
 
 ```bash
 git clone https://github.com/dev-chance-max/brainchoice.git
+
