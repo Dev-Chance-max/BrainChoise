@@ -25,6 +25,11 @@ O objetivo é oferecer uma ferramenta leve, divertida e prática para auxiliar e
 ## 📷 Screenshot
 
 ![Screenshot do BrainChoice](Screenshot_20250708-052003_BrainChoice.jpg)
+![Screenshot do BrainChoice](Screenshot_20250708-052007_BrainChoice.jpg)
+![Screenshot do BrainChoice](Screenshot_20250708-052028_BrainChoice.jpg)
+![Screenshot do BrainChoice](Screenshot_20250708-052035_BrainChoice.jpg)
+![Screenshot do BrainChoice](Screenshot_20250708-052040_BrainChoice.jpg)
+
 
 ---
 
