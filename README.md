@@ -39,4 +39,4 @@ O objetivo é oferecer uma ferramenta leve, divertida e prática para auxiliar e
 ### 1. Clonar o projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/brainchoice.git
+git clone https://github.com/dev-chance-max/brainchoice.git
