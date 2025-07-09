@@ -22,6 +22,10 @@
 
 O objetivo é oferecer uma ferramenta leve, divertida e prática para auxiliar em pequenas decisões do dia a dia — como escolher o que comer, que filme ver ou que tarefa priorizar.
 
+## 📷 Screenshot
+
+![Screenshot do BrainChoice](Screenshot_20250708-052003_BrainChoice.jpg)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
